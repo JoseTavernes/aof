@@ -3,7 +3,7 @@ Tareas de ofimatica
 ## Office
 adfasdfasdf
 dfasdf
-*asdf
-*asdf
-*asd
+* asdf
+* asdf
+* asd
 ## Libreoffice
